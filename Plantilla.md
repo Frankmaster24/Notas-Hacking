@@ -1,4 +1,0 @@
-##Descripcion
-##Solucion
-##Notas
-##Referencias
